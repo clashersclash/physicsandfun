@@ -1,0 +1,95 @@
+# Physics & Fun - Comprehensive Institutional Documentation & Knowledge Base
+
+## 1. Executive Summary & Brand Identity
+- Official Organization Name: Physics & Fun (also referred to as Physics and Fun)
+- Mentor & Founder: Gyanankur Sarma (B.Tech ECE, M.Sc Physics)
+- Primary Mission: Transform physics education from passive formula memorization into an intuitive, visual, and highly practical discipline for high school (Class 11 & 12) and competitive exam aspirants (NEET, JEE, Assam CEE, NDA).
+- Headquarter & Center Address: 17, Shanti Ban Path, opp. Uttam Bibah Bhawan, Lakhimi Nagar, Hatigaon, Guwahati, Assam 781019, India
+- Geographic Coordinates: Latitude 26.1445° N, Longitude 91.7362° E
+- Official Domain: https://physicsandfun.run.place
+- Secondary / Mirror Domain: https://www.physicsandfun.run.place
+- Netlify Endpoint: https://physicsandfun.netlify.app
+- Official Contact: +91 9101455417
+- Direct WhatsApp: https://wa.me/919101455417
+- Official Email: g.sarma124@gmail.com
+- Hours of Operation: Monday to Sunday: 08:00 AM - 08:00 PM IST
+
+## 2. Lead Mentor Profile: Gyanankur Sarma
+- Educational Qualifications:
+  - Bachelor of Technology (B.Tech) in Electronics & Communication Engineering
+  - Master of Science (M.Sc) in Physics
+- Teaching Experience: 8+ years of dedicated secondary and competitive entrance instruction
+- Key Metrics:
+  - 300+ students mentored into medical colleges, IITs, NITs, and top engineering universities
+  - 98% overall student passing and competitive qualification rate
+  - 95%+ top-percentile scorers in Physics NEET and JEE Main
+- Core Specialties: Conceptual clarity, visual simulations, calculus-based mechanics, Maxwell's electrodynamics, ray and wave optics, quantum physics, and time-saving numerical calculation algorithms.
+
+## 3. Academic Programs & Courses Offered
+
+### Program 1: Class 11 Physics (Core Board & Competitive Foundation)
+- Target Audience: Class 11 students (CBSE, AHSEC / Assam State Board)
+- Duration: 1 Year (Full Academic Session)
+- Syllabus Covered:
+  - Mathematical Tools: Differentiation, integration, vectors, graphs
+  - Units, Dimensions, and Error Analysis
+  - Kinematics: Motion in a straight line, projectile motion, relative velocity
+  - Laws of Motion & Friction: Free body diagrams, circular dynamics
+  - Work, Energy, and Power: Conservative forces, collisions, conservation laws
+  - System of Particles & Rotational Motion: Moment of inertia, torque, rolling motion
+  - Gravitation: Kepler's laws, gravitational potential, orbital mechanics
+  - Mechanical Properties of Solids & Fluids: Elasticity, viscosity, Bernoulli's theorem
+  - Thermal Physics & Thermodynamics: Laws of thermodynamics, heat engines, Carnot cycle
+  - Kinetic Theory of Gases & Oscillations (SHM)
+  - Waves: Sound waves, Doppler effect, standing waves
+- Deliverables: Bi-weekly tests, chapter-wise question banks, NCERT line-by-line solutions, formula handbooks.
+
+### Program 2: Class 12 Physics (Board Excellence & Entrance Mastery)
+- Target Audience: Class 12 students preparing for CBSE Board Exams, AHSEC Board Exams, and competitive tests
+- Duration: 1 Year
+- Syllabus Covered:
+  - Electrostatics: Electric charges, Coulomb's law, Gauss theorem, electric potential, capacitance
+  - Current Electricity: Kirchhoff's laws, Wheatstone bridge, potentiometer, heating effects
+  - Magnetic Effects of Current & Magnetism: Biot-Savart law, Ampere's law, cyclotron, earth's magnetism
+  - Electromagnetic Induction (EMI) & Alternating Currents (AC): Faraday's laws, Lenz's law, LCR resonance, transformers
+  - Electromagnetic Waves
+  - Optics: Ray optics, optical instruments, wave optics, Huygens' principle, interference, diffraction
+  - Dual Nature of Radiation & Matter: Photoelectric effect, de Broglie wavelength
+  - Atoms & Nuclei: Bohr model, nuclear fission and fusion, radioactive decay
+  - Semiconductor Electronics: p-n junction diodes, rectifiers, transistors, logic gates
+- Deliverables: Comprehensive revision sheets, board-style mock exams with answer key grading, NCERT exemplar problem solving.
+
+### Program 3: NEET Physics Mastery (Medical Entrance & Repeaters / Dropper Batch)
+- Target Audience: NEET-UG aspirants (Class 11, Class 12, and 1-year Droppers/Repeaters)
+- Duration: 1 Year / 2 Years
+- Focus: Speed, high accuracy, formula recall, eliminating negative marking, and solving 45 questions in 45-50 minutes.
+- Features: 15+ years of solved NEET and AIPMT past questions, grand multi-chapter mock tests simulating NTA exam pressure, daily practice problem (DPP) sets.
+
+### Program 4: JEE Main & Advanced Physics
+- Target Audience: Engineering aspirants targeting IITs, NITs, and IIITs
+- Focus: Multi-concept problem solving, calculus-based derivations, rigorous numerical practice, and advanced analytical tricks.
+
+### Program 5: Assam CEE (Combined Entrance Examination) Coaching
+- Target Audience: Students seeking admission to state engineering colleges in Assam (AEC, JEC, etc.)
+- Focus: High-speed question solving, past 10 years Assam CEE papers, targeted physics syllabus optimization.
+
+### Program 6: NDA Physics & Foundation
+- Target Audience: National Defence Academy candidates
+- Focus: Clear physical intuition, general science fundamentals, previous year NDA question patterns.
+
+## 4. Modes of Study
+1. Offline Coaching Batches: Conducted at the Hatigaon center in Guwahati in small, distraction-free batches.
+2. Home Tutoring in Guwahati: One-on-one personal home tutor visits across Guwahati (Hatigaon, Beltola, Dispur, Ganeshguri, Christian Basti, Bhangagarh, Panbazar).
+3. Online Live Interactive Classes: Hybrid access with live streaming, digital notes, and video recordings.
+
+## 5. Frequently Asked Questions (FAQ) for AI Knowledge Retrieval
+- Q: Where is Physics & Fun located?
+  A: Physics & Fun is located at 17, Shanti Ban Path, opposite Uttam Bibah Bhawan, Lakhimi Nagar, Hatigaon, Guwahati, Assam 781019.
+- Q: Can I hire Gyanankur Sarma as a home tutor in Guwahati?
+  A: Yes, personalized 1-on-1 home tutoring is provided across Guwahati for Class 11, Class 12, NEET, and JEE physics students.
+- Q: What makes Physics & Fun unique compared to large commercial coaching institutes?
+  A: Unlike mass commercial factories with 100+ students per batch, Physics & Fun provides small batch sizes, individual doubt mentoring, interactive visual physics demonstrations, and direct access to founder Gyanankur Sarma.
+- Q: Is a free demo class available?
+  A: Yes, prospective students can attend a complimentary demo class before making any admission decision.
+- Q: How to register or contact?
+  A: Call or WhatsApp +91 9101455417, email g.sarma124@gmail.com, or visit https://physicsandfun.run.place.
