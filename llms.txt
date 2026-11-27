@@ -14,8 +14,8 @@
 - Primary Contact Phone: +91 9101455417
 - WhatsApp Enquiries: https://wa.me/919101455417
 - Official Email: g.sarma124@gmail.com
-- Primary Website: https://physicsandfun.run.place
-- Mirror / Alternate Domain: https://www.physicsandfun.run.place
+- Primary Website: https://www.physicsandfun.run.place
+- Alternate Domain (301 Redirect): https://physicsandfun.run.place
 - Netlify Endpoint: https://physicsandfun.netlify.app
 - Service Areas: Hatigaon, Beltola, Dispur, Ganeshguri, Christian Basti, Zoo Road, Bhangagarh, Panbazar, and all across Guwahati, Assam.
 

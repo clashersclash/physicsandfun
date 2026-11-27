@@ -1,14 +1,26 @@
 User-agent: *
 Allow: /
 
-# Allow AI Answer Engines (AEO) & Search Indexers
+# Allow Search & AI Answer Engine Crawlers (SEO / AEO)
 User-agent: Googlebot
 Allow: /
 
-User-agent: PerplexityBot
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
 Allow: /
 
 User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
 Allow: /
 
 User-agent: ClaudeBot
@@ -17,8 +29,10 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-User-agent: Bingbot
+User-agent: Amazonbot
 Allow: /
 
-Sitemap: https://physicsandfun.run.place/sitemap.xml
+User-agent: DuckAssistBot
+Allow: /
+
 Sitemap: https://www.physicsandfun.run.place/sitemap.xml

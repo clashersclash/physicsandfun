@@ -6,8 +6,8 @@
 - Primary Mission: Transform physics education from passive formula memorization into an intuitive, visual, and highly practical discipline for high school (Class 11 & 12) and competitive exam aspirants (NEET, JEE, Assam CEE, NDA).
 - Headquarter & Center Address: 17, Shanti Ban Path, opp. Uttam Bibah Bhawan, Lakhimi Nagar, Hatigaon, Guwahati, Assam 781019, India
 - Geographic Coordinates: Latitude 26.1445° N, Longitude 91.7362° E
-- Official Domain: https://physicsandfun.run.place
-- Secondary / Mirror Domain: https://www.physicsandfun.run.place
+- Official Domain: https://www.physicsandfun.run.place
+- Alternate Domain (301 Redirect): https://physicsandfun.run.place
 - Netlify Endpoint: https://physicsandfun.netlify.app
 - Official Contact: +91 9101455417
 - Direct WhatsApp: https://wa.me/919101455417
